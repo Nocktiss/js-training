@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Nocktiss/js-training.svg?branch=master)](https://travis-ci.org/Nocktiss/js-training)
+[![Build Status](https://travis-ci.com/Nocktiss/js-training.svg?branch=master)](https://travis-ci.com/Nocktiss/js-training)
 ## Setup
 First, [**fork**](https://github.com/Nocktiss/js-training/fork?fragment=1) this repository.
 ### globals dependencies
