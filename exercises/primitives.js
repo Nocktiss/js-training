@@ -8,7 +8,7 @@
  */
 
 // Your code :
-const str;;
+const str;
 const num;
 const bool;
 const undef;
