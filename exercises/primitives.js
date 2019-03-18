@@ -8,6 +8,10 @@
  */
 
 // Your code :
+const str;;
+const num;
+const bool;
+const undef;
 
 
 //* Begin of tests
